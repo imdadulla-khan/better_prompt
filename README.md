@@ -23,6 +23,11 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
+![Screenshot 2024-07-05 171509](https://github.com/imdadulla-khan/better_prompt/assets/128115396/5fe48f65-9114-4ba2-b357-9cb24c0ba7d3)
+![Screenshot 2024-07-05 171528](https://github.com/imdadulla-khan/better_prompt/assets/128115396/8370f6b4-eba3-4587-a3a7-3ef07efaaffa)
+![Screenshot 2024-07-05 171602](https://github.com/imdadulla-khan/better_prompt/assets/128115396/cda90bfb-d7e5-4caa-8ebe-6f2e049656cc)
+![Screenshot 2024-07-05 171548](https://github.com/imdadulla-khan/better_prompt/assets/128115396/52f4d042-d9c4-49ee-aaf2-a3966d85695b)
+
 
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
