@@ -63,9 +63,4 @@ const UpdatePrompt = () => {
   );
 };
 
-const PageWithSuspense = () => (
-  <Suspense fallback={<div>Loading...</div>}>
-    <UpdatePrompt />
-  </Suspense>
-);
-export default PageWithSuspense;
+export default UpdatePrompt;
