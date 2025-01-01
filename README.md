@@ -22,7 +22,7 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 ## Learn More
 
-Take a look at the screenshits of the web application
+## Take a look at the screenshots of the web application
 ![Screenshot 2024-07-05 171509](https://github.com/imdadulla-khan/better_prompt/assets/128115396/5fe48f65-9114-4ba2-b357-9cb24c0ba7d3)
 ![Screenshot 2024-07-05 171528](https://github.com/imdadulla-khan/better_prompt/assets/128115396/8370f6b4-eba3-4587-a3a7-3ef07efaaffa)
 ![Screenshot 2024-07-05 171602](https://github.com/imdadulla-khan/better_prompt/assets/128115396/cda90bfb-d7e5-4caa-8ebe-6f2e049656cc)
